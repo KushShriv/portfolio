@@ -1,0 +1,72 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Kushaagra Shrivastava'
+theme = 'PaperMod'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "TOML"]
+
+[params]
+  hideFooter = true
+  favicon = "logo.png"
+
+  [params.profileMode]
+    enabled = true
+    title = "> Hey There! I am Kushaagra Shrivastava" # default will be site title
+    subtitle = """
+## 4th year CSE student @ PESU ECC 
+---
+#### Big Data & Data Analytics Enthusiast 
+#### Cloud and Distributed Computing Enthusiast
+#### Full-stack Developer.
+---
+"""
+    imageUrl = "https://media.licdn.com/dms/image/D5603AQHK-rq0x2blAA/profile-displayphoto-shrink_800_800/0/1707554194158?e=1729123200&v=beta&t=AQhIHruhIKiaDOnizsxn0JAPNXK_cu8CRXBhwmbpn-Q" 
+    imageTitle = "My image" # optional
+    imageWidth = 200 # custom size
+    imageHeight = 200 # custom size
+
+    [[params.profileMode.buttons]]
+      name = "View Resume"
+      url = "https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Kafka.component.complex-narrative-xl.ts=1690916983558.png/content/adobe-cms/mx/es/products/instana/supported-technologies/apache-kafka-observability/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage"
+
+
+  [[params.socialIcons]]
+    name = "Website"
+    url = "http://kushshriv.github.io"
+
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/kushaagra-shrivastava/"
+
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/KushShriv"
+
+  [[params.socialIcons]]
+    name = "Email"
+    url = "mailto:kushaagrashrivastava@gmail.com"
+
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/cs/experience/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Projects"
+    url = "/cs/project/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Education"
+    url = "/cs/education/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Certifications"
+    url = "/cs/certifications/"
+    weight = 4

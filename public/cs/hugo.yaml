@@ -1,0 +1,35 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Kushaagra Shrivastava'
+theme = 'PaperMod'
+
+[params]
+  hideFooter = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Hi there 👋, I am Kushaagra Shrivastava" # optional default will be site title
+
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Certifications"
+    url = "/certifications/"
+    weight = 4

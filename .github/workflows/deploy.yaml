@@ -1,0 +1,49 @@
+name: Publish to GH Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Checkout destination
+        uses: actions/checkout@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          ref: gh-pages
+          path: built-site
+
+      - name: Setup Hugo
+        run: |
+          echo "Setting up Hugo..."
+          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.112.4/hugo_extended_0.112.4_linux-amd64.tar.gz'
+          tar -C /usr/local/bin -zxvf /tmp/hugo.tar.gz hugo
+          hugo version
+
+      - name: Build
+        run: |
+          echo "Building site..."
+          hugo --verbose
+
+      - name: Deploy
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo "Deploying site..."
+          cp -R public/* built-site/
+          cd built-site
+          git add .
+          git config user.name 'Kushaagra Shrivastava'
+          git config user.email '134584075+KushShriv@users.noreply.github.com'
+          git commit -m 'Updated site' || echo "No changes to commit"
+          git push
