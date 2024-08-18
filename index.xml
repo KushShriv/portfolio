@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kushaagra Shrivastava</title>
+    <link>https://kushshriv.github.io/portfolio/</link>
+    <description>Recent content on Kushaagra Shrivastava</description>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <atom:link href="https://kushshriv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiences</title>
+      <link>https://kushshriv.github.io/portfolio/cs/experience/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kushshriv.github.io/portfolio/cs/experience/summary/</guid>
+      <description>Linksmart Technologies Summer Tech Intern June 2023 - August 2023
+View in Detail
+Created a registration portal for collecting data and displaying analytics from marketing events held by the company.
+I implemented subtle enhancements to the company website after prototyping React based frontends, finally implementing the design which met the company&amp;rsquo;s expectations meeting the company&amp;rsquo;s design expectations.
+Integrated Google Maps and Open Street Maps with Django&amp;rsquo;s admin portal and created analytics view for the same.</description>
+    </item>
+    <item>
+      <title>Linksmart Technologies Internship</title>
+      <link>https://kushshriv.github.io/portfolio/cs/experience/internships/linksmarttechnologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kushshriv.github.io/portfolio/cs/experience/internships/linksmarttechnologies/</guid>
+      <description>Summer Tech Intern June 2023 - August 2023
+Summary During the summer of 2023, I had the opportunity to work as an on-site tech intern at Linksmart Technologies, a small IP-driven startup. In this role, I collaborated closely with a dedicated team, engaging in a variety of tasks ranging from marketing material and demo preparation to developing customer-facing pages and contributing to the company&amp;rsquo;s core backend architecture. This experience provided me with a comprehensive understanding of various aspects of software development, from networking and data processing to API integration.</description>
+    </item>
+    <item>
+      <title>Projects Highlight</title>
+      <link>https://kushshriv.github.io/portfolio/cs/certifications/highlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kushshriv.github.io/portfolio/cs/certifications/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects Highlight</title>
+      <link>https://kushshriv.github.io/portfolio/cs/project/highlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kushshriv.github.io/portfolio/cs/project/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recent Education</title>
+      <link>https://kushshriv.github.io/portfolio/cs/education/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kushshriv.github.io/portfolio/cs/education/summary/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
