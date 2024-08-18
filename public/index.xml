@@ -2,11 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kushaagra Shrivastava</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Kushaagra Shrivastava</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 20:21:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All</title>
+      <link>http://localhost:1313/portfolio/cs/project/all/</link>
+      <pubDate>Fri, 16 Aug 2024 20:21:37 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/project/all/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>http://localhost:1313/portfolio/cs/education/all/</link>
+      <pubDate>Fri, 16 Aug 2024 20:18:42 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/education/all/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>http://localhost:1313/portfolio/cs/experience/all/</link>
+      <pubDate>Fri, 16 Aug 2024 20:13:04 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/experience/all/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/portfolio/cs/certifications/category/tools/</link>
+      <pubDate>Fri, 16 Aug 2024 20:11:53 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/certifications/category/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/portfolio/cs/certifications/category/cloud/</link>
+      <pubDate>Fri, 16 Aug 2024 20:11:43 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/certifications/category/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DataScience</title>
+      <link>http://localhost:1313/portfolio/cs/certifications/category/datascience/</link>
+      <pubDate>Fri, 16 Aug 2024 20:11:29 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/certifications/category/datascience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>http://localhost:1313/portfolio/cs/certifications/all/</link>
+      <pubDate>Fri, 16 Aug 2024 20:11:09 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/certifications/all/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experiences</title>
+      <link>http://localhost:1313/portfolio/cs/experience/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/experience/summary/</guid>
+      <description>Linksmart Technologies Summer Tech Intern June 2023 - August 2023
+View in Detail
+Created a registration portal for collecting data and displaying analytics from marketing events held by the company.
+I implemented subtle enhancements to the company website after prototyping React based frontends, finally implementing the design which met the company&amp;rsquo;s expectations meeting the company&amp;rsquo;s design expectations.
+Integrated Google Maps and Open Street Maps with Django&amp;rsquo;s admin portal and created analytics view for the same.</description>
+    </item>
+    <item>
+      <title>Linksmart Technologies Internship</title>
+      <link>http://localhost:1313/portfolio/cs/experience/internships/linksmarttechnologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/experience/internships/linksmarttechnologies/</guid>
+      <description>Summer Tech Intern June 2023 - August 2023
+Summary During the summer of 2023, I had the opportunity to work as an on-site tech intern at Linksmart Technologies, a small IP-driven startup. In this role, I collaborated closely with a dedicated team, engaging in a variety of tasks ranging from marketing material and demo preparation to developing customer-facing pages and contributing to the company&amp;rsquo;s core backend architecture. This experience provided me with a comprehensive understanding of various aspects of software development, from networking and data processing to API integration.</description>
+    </item>
+    <item>
+      <title>Projects Highlight</title>
+      <link>http://localhost:1313/portfolio/cs/certifications/highlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/certifications/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects Highlight</title>
+      <link>http://localhost:1313/portfolio/cs/project/highlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/project/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recent Education</title>
+      <link>http://localhost:1313/portfolio/cs/education/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cs/education/summary/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

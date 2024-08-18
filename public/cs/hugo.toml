@@ -1,0 +1,38 @@
+[params]
+  hideFooter = true
+
+  [params.profileMode]
+    enabled = true
+    title = "> Hey There! I am Kushaagra Shrivastava" # default will be site title
+    subtitle = """
+## 4th year CSE student @ PESU ECC 
+---
+#### Big Data & Data Analytics Enthusiast 
+#### Cloud and Distributed Computing Enthusiast
+#### Full-stack Developer.
+---
+"""
+    imageUrl = "https://media.licdn.com/dms/image/D5603AQHK-rq0x2blAA/profile-displayphoto-shrink_800_800/0/1707554194158?e=1729123200&v=beta&t=AQhIHruhIKiaDOnizsxn0JAPNXK_cu8CRXBhwmbpn-Q" 
+    imageTitle = "My image" # optional
+    imageWidth = 200 # custom size
+    imageHeight = 200 # custom size
+
+    [[params.profileMode.buttons]]
+      name = "View Resume"
+      url = "https://drive.google.com/file/d/1VoTG6toOtnQc5mI-rK8y-AptKlo1wLiW/view?usp=sharing"
+
+  [[params.socialIcons]]
+    name = "Website"
+    url = "http://kushshriv.github.io"
+
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/kushaagra-shrivastava/"
+
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/KushShriv"
+
+  [[params.socialIcons]]
+    name = "Email"
+    url = "mailto:kushaagrashrivastava@gmail.com"

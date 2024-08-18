@@ -2,26 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-08-16T20:21:37+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/cs/</loc>
+    <loc>http://localhost:1313/portfolio/cs/project/</loc>
     <lastmod>2024-08-16T20:21:37+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/cs/project/</loc>
+    <loc>http://localhost:1313/portfolio/cs/project/all/</loc>
     <lastmod>2024-08-16T20:21:37+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/cs/education/</loc>
-    <lastmod>2024-08-16T20:18:51+05:30</lastmod>
+    <loc>http://localhost:1313/portfolio/cs/</loc>
+    <lastmod>2024-08-16T20:21:37+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/cs/experience/</loc>
-    <lastmod>2024-08-16T20:13:19+05:30</lastmod>
+    <loc>http://localhost:1313/portfolio/cs/education/all/</loc>
+    <lastmod>2024-08-16T20:18:42+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/cs/certifications/</loc>
+    <loc>http://localhost:1313/portfolio/cs/education/</loc>
+    <lastmod>2024-08-16T20:18:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/experience/all/</loc>
+    <lastmod>2024-08-16T20:13:04+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/experience/</loc>
+    <lastmod>2024-08-16T20:13:04+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/certifications/</loc>
     <lastmod>2024-08-16T20:11:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/portfolio/cs/certifications/category/tools/</loc>
+    <lastmod>2024-08-16T20:11:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/portfolio/cs/certifications/category/cloud/</loc>
+    <lastmod>2024-08-16T20:11:43+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/certifications/category/datascience/</loc>
+    <lastmod>2024-08-16T20:11:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/certifications/all/</loc>
+    <lastmod>2024-08-16T20:11:09+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/experience/summary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/experience/internships/linksmarttechnologies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/certifications/highlight/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/project/highlight/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cs/education/summary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url>
 </urlset>
