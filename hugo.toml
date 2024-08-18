@@ -53,22 +53,22 @@ Until then, feel free to look around and look at the main website in the link be
 
   [[menu.main]]
     name = "Experience"
-    url = "/cs/experience/summary"
+    url = "/portfolio/cs/experience/summary"
     weight = 1
   
   [[menu.main]]
     name = "Projects"
-    url = "/cs/project/highlight"
+    url = "/portfolio/cs/project/highlight"
     weight = 2
 
   [[menu.main]]
     name = "Education"
-    url = "/cs/education/summary"
+    url = "/portfolio/cs/education/summary"
     weight = 3
 
   [[menu.main]]
     name = "Certifications"
-    url = "/cs/certifications/highlight"
+    url = "/portfolio/cs/certifications/highlight"
     weight = 4
 
   [[menu.main]]
