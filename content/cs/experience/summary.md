@@ -7,7 +7,7 @@ draft = false
 ### Summer Tech Intern 
 > June 2023 - August 2023
 
-[View in Detail](./../internships/linksmartTechnologies)
+[View in Detail](./../internships/linksmarttechnologies)
 
 - Created a registration portal for collecting data and displaying analytics from marketing events held by the company.
 
