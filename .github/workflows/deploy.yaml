@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: |
           echo "Building site..."
-          hugo --verbose
+          hugo --minify
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
